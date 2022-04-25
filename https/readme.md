@@ -138,7 +138,7 @@ go ahead with `5`.
 The next screen is about configuring the SSL binding in IIS. If there is no SSL binding configured,
 we should let the bot do it. We choose the default `1`. The next question lists the sites of the
 IIS. We take the _Default Web Site_. The next question about further steps should be answered
-with _No_ (`4`).
+with _No_.
 
 Then the certificate challenge starts. If everything succeeds, then you have a fully working HTTPS
 binding in th IIS.
